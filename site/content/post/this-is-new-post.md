@@ -6,3 +6,6 @@ image: /dist/youtube-channel-art.jpg
 ---
 
 This is body text
+
+![null](/dist/youtube-featured-copy.jpg)
+
